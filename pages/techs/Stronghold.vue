@@ -14,7 +14,7 @@
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
             >發。研發後<nuxt-link to="/building/Castle">城堡</nuxt-link
             >和<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
-            ><nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>+25%。
+            ><nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>+20%。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -116,7 +116,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">城堡和箭塔射速+25%。</td>
+            <td class="unit4">城堡和箭塔射速+20%。</td>
           </tr>
         </table>
 
